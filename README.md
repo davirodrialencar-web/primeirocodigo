@@ -1,2 +1,5 @@
 # primeirocodigo
-primeiro site que irei fazer D
+primeiro site que  fazer D
+
+
+texto vermelho da dor vermelha porque o mundo é sanngue vermelho
