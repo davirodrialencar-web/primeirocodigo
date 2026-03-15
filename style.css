@@ -56,3 +56,11 @@ header div a:hover { /* seleção do modo quando o mouse passar por cima do "hov
     font-size: 24px; /* tamanho da fonte */
     line-height: 34px; /* espaçamento da linha do texto */
 }
+:root {  /* inciando a variavel*/
+--subcor: #57a615; /* nomeando a variavel de --subcor e guardando uma cor nela.*/
+} /* Fechando a o bloco da vaiavel root.*/
+header {
+    padding: 32px;
+    border-bottom: 3px solid var(--subcor);
+    background-color: rgba(0, 0,0,0.1);
+}
