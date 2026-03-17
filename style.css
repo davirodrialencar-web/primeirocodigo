@@ -5,7 +5,7 @@
     border: 0;
 }
 body{
-    background-color: #1a1e2b      
+    background-color: var(--subcor)     
 }
 header { 
     padding: 32px;
@@ -55,4 +55,16 @@ header div a:hover { /* seleção do modo quando o mouse passar por cima do "hov
     margin: 32px auto; /* distancia das margens dos outros elementros */
     font-size: 24px; /* tamanho da fonte */
     line-height: 34px; /* espaçamento da linha do texto */
+}
+:root{ 
+    --subcor: grey;
+
+}
+#linksFooter {
+    padding-top: 32px;
+}
+#linksFooter a {
+    padding-top: 32px;
+    padding-bottom: 8px;
+    border-bottom: 3px solid      
 }
