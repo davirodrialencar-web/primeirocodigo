@@ -5,7 +5,7 @@
     border: 0;
 }
 body{
-    background-color: var(--subcor)     
+    background-color: var(--subcor)    
 }
 header { 
     padding: 32px;
@@ -16,7 +16,7 @@ header div{
     text-align: center; /* Alinhamento no meio do header */
 }
 header div a {
-      color: white; /* a cor do texto */
+      color: rgb(37, 103, 178); /* a cor do texto */
       font-size: 20px; /* tamanho da fonte */
       line-height: 30px; /* espaçamento da linha do texto */
       margin: 0 16px; /* espaçamento entre os textos */
@@ -57,7 +57,7 @@ header div a:hover { /* seleção do modo quando o mouse passar por cima do "hov
     line-height: 34px; /* espaçamento da linha do texto */
 }
 :root{ 
-    --subcor: rgb(55, 87, 144);
+ --subcor:var(#FFF059)
 
 }
 #linksFooter {
