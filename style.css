@@ -57,7 +57,7 @@ header div a:hover { /* seleção do modo quando o mouse passar por cima do "hov
     line-height: 34px; /* espaçamento da linha do texto */
 }
 :root{ 
- --subcor:var(#FFF059)
+ --subcor:var(--subcor)
 
 }
 #linksFooter {
